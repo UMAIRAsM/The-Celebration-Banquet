@@ -218,19 +218,19 @@ const BookNow = () => {
               <div className="bg-white rounded-lg shadow-sm p-6 space-y-4">
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Deposit & Payment</h3>
-                  <p>A 30% deposit is required to secure your booking date. The remaining balance is due 14 days before your event.</p>
+                  <p>A 40% deposit is required to secure your booking date. The remaining balance is due 14 days before your event.</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Cancellation Policy</h3>
-                  <p>Cancellations made 30 days or more before the event date will receive a full refund of the deposit. Cancellations made less than 30 days before will forfeit the deposit.</p>
+                  <p>On cancellation the deposit will not be returned.</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Minimum Guest Count</h3>
-                  <p>Our venue requires a minimum of 50 guests for weekend bookings and 30 guests for weekday bookings.</p>
+                  <p>For guests less than 300 one portion will be given. Separation of genders will be arranged as asked.</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Timing & Duration</h3>
-                  <p>Standard booking duration is 6 hours. Additional hours can be arranged for an extra fee.</p>
+                  <p>Standard booking duration is 3 hours. Additional hours can be arranged for an extra fee.</p>
                 </div>
               </div>
             </div>
